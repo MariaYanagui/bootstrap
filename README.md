@@ -12,5 +12,8 @@ O Badge do Bootstrap é um pequeno marcador visual que serve para destacar infor
 
 * rounded-pill: deixa o badge com formato mais arredondado, tipo uma pílula
 
+## 🎨 Como personalizar?
+
+Você pode mudar o tamanho, cor, fonte, borda e até usar animações com CSS. Também dá pra usar classes utilitárias do Bootstrap como fs-6, fw-bold, text-uppercase, etc. Para dar um toque único, dá pra incluir ícones ou emojis dentro dos badges.
 
 
