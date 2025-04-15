@@ -24,7 +24,7 @@ Você pode mudar o tamanho, cor, fonte, borda e até usar animações com CSS. T
 
 ### ❓Como esse componente pode resolver um problema real em um projeto web?
 
-A parte mais desafiadora foi entender onde o badge pode ser usado sem quebrar o layout. No começo, coloquei ele sozinho em elementos que não faziam sentido, como dentro de divs aleatórias. Resolvi isso testando os exemplos da documentação e encaixando em elementos como botões e títulos.
+Badges ajudam o usuário a visualizar rapidamente informações importantes, como número de notificações, quantidade de produtos no carrinho, ou status de algo. Eles melhoram a usabilidade e a experiência do usuário ao mostrar dados de forma simples e visual.
 
 ### ❓Se você pudesse personalizar esse componente para torná-lo único, o que mudaria e por quê?
 
