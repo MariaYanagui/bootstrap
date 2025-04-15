@@ -22,4 +22,7 @@ Você pode mudar o tamanho, cor, fonte, borda e até usar animações com CSS. T
 
 ## 🧠  Respostas às Perguntas
 
+### ❓Como esse componente pode resolver um problema real em um projeto web?
+
+A parte mais desafiadora foi entender onde o badge pode ser usado sem quebrar o layout. No começo, coloquei ele sozinho em elementos que não faziam sentido, como dentro de divs aleatórias. Resolvi isso testando os exemplos da documentação e encaixando em elementos como botões e títulos.
 
