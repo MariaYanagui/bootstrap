@@ -28,8 +28,8 @@ Badges ajudam o usuário a visualizar rapidamente informações importantes, com
 
 ### ❓Se você pudesse personalizar esse componente para torná-lo único, o que mudaria e por quê?
 
-Eu colocaria animações com CSS, como pulso ou fade-in, para chamar ainda mais atenção. Também criaria badges com ícones (tipo 🔔 ou ✔️) para trazer mais contexto visual, especialmente em apps que precisam ser bem intuitivos.
+Eu colocaria animações com CSS, para chamar ainda mais atenção. Também criaria badges com ícones (tipo 🔔 ou ✔️) para trazer mais contexto visual, especialmente em apps que precisam ser bem intuitivos.
 
 ### ❓Qual foi a parte mais desafiadora ao implementar esse componente e como você resolveu?
 
-A parte mais desafiadora foi entender onde o badge pode ser usado sem quebrar o layout. No começo, coloquei ele sozinho em elementos que não faziam sentido, como dentro de divs aleatórias. Resolvi isso testando os exemplos da documentação e encaixando em elementos como botões e títulos.
+A parte mais desafiadora foi entender onde o badge pode ser usado sem quebrar o layout. No começo, coloquei ele sozinho em elementos que não faziam sentido, como dentro de divs aleatórias.
